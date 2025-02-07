@@ -1,0 +1,249 @@
+head{
+    font: size 16px; ;
+    
+}
+body{
+    font-family: 'Open Sans', serif;
+    font-size: 1.2rem;
+    color: #393d41;
+    line-height: 1.65rem;
+    width: 1400px;
+  
+   
+  
+}
+#logodiv{
+    background-color: black;
+    height: 200px;
+    text-align: start;
+    
+    
+}
+#logo{
+   width: 200px;
+   margin-top: 3em;
+   margin-left: 2em;
+   margin-bottom: 4.5em;
+   text-align: start;
+   
+}
+h1{
+    font-family: 'Montserrat';
+    line-height: 1.5rem;
+    font-size: 32px;
+    font-weight: bold;
+    color: #25a2c3 ;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#h1-3{
+    margin-top: 5em;
+    font-size: 35px;
+}
+#h1-2{
+    margin-top: 1em;
+    font-size: 35px;
+}
+h3{
+    font-family: 'Montserrat';
+    line-height: 1.5rem;
+    font-size: 24px;
+    font-weight: bold;
+    color: #25a2c3 ;
+    margin-top: 1.8em;
+    margin-bottom: 0.9em;
+    display: inline;
+}
+h2{
+    font-family: 'Montserrat';
+    line-height: 1.5rem;
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    margin: 1.8em;
+    margin-top: 1em;
+}
+h5{
+    font-family: 'Montserrat';
+    line-height: 1.5rem;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 1.8em;
+    margin-top: 1em;
+    color: #25a2c3 ;
+}
+
+
+.div1{
+    background-image: url('../images/banner.jpg');
+    background-size: cover;   
+    padding: 5em;
+    margin: 0;
+    margin-top: -1em;
+    height: 500px;
+    text-align: center;
+}
+#button{
+    background-color: #f04c2f;
+    text-align: center;
+    color: white;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em; 
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    margin: 1em;
+    margin-top: 2.5em;
+    border-radius: 7%;
+    border-color: #f04c2f;
+}
+#centro{
+    display: inline;
+    text-align: start;
+    margin: 0;
+    
+}
+#centro2{
+    display: inline;
+    text-align: end;
+
+}
+.foto1{
+    width: 350px;
+    height: 300px;
+    border-radius: 100%;
+    margin-top: 1.5em;
+    display: inline;
+    
+   
+}
+#centro2 p{
+    display: inline;
+}
+#div2{
+    background-color: #e22d0e;
+    width: 100%;
+    height: 290px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+    margin-bottom: 3em;
+    margin-top: 2em;
+    
+}
+#div2 p{
+    color: white;
+}
+#mario{
+    margin-top: 2em;
+    font-size: 24px;
+}
+#ceo{
+    margin-top: 0.2em;
+   font-size: 15px;
+}
+#div3{
+    border-color:  #dee1e3;
+    border: 2px;
+    border-radius: 2%;
+    border-style: ridge;
+    height: 430px;
+    width: 80%;
+    margin-top: 2em;
+    padding-top: 2em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fotopc{
+    width: 100%;
+    padding: 0em;
+    margin-bottom: 0em;
+    margin-top: -2em;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+#div4{
+    border-color:  #dee1e3;
+    border: 2px;
+    border-radius: 2%;
+    border-style: ridge;
+    height: 460px;
+    width: 80%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.foto2{
+    width: 100%;
+    padding: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    
+}
+#div5{
+    border-color:  #dee1e3;
+    border: 2px;
+    border-radius: 2%;
+    border-style: ridge;
+    height: 440px;
+    width: 80%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+.foto3{
+    width: 100%;
+    padding: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+footer{
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    width: 100%;
+    height: 350px;
+    margin-top:2.5em ;
+    padding-top: 2em;
+}
+.footerheading{
+    color: white;
+}
+.footerlink{
+    color: #c8e7f0;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-top: 0.8em;
+}
+.footerlink2{
+    color: #c8e7f0;
+    cursor: pointer;
+    
+    margin-top: 0.8em;
+}
+.pulsante{
+    color: #f04c2f ;
+    font-family: 'Montserrat', serif;
+    font-weight: bold;
+}
+#hr{
+    width: 40%;
+    color: #c8e7f0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+a{
+    color: #c8e7f0;
+    
+}
+
