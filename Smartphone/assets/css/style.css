@@ -13,8 +13,16 @@ body{
    text-align: center;
   
 }
+#logodiv{
+    background-color: black;
+    height: 150px;
+    
+}
 #logo{
-   width: 100%;
+   width: 30%;
+   height: 30%;
+   margin-top: 2em;
+   
 }
 h1{
     font-family: 'Montserrat';
@@ -22,8 +30,15 @@ h1{
     font-size: 32px;
     font-weight: bold;
     color: #25a2c3 ;
-    margin-top: 1.5em;
+    margin-top: 1em;
     margin-bottom: 1.5em;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#h1-2{
+    margin-top: -1.2em;
 }
 h3{
     font-family: 'Montserrat';
@@ -56,8 +71,8 @@ h5{
 
 .div1{
     background-image: url('../images/banner.jpg');
-    background-size: contain;
-    padding: 2em;
+    background-size: contain;   
+    padding: 1em;
     margin: 0;
     margin-top: -1em;
 }
